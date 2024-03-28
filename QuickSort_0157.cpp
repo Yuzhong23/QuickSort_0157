@@ -53,6 +53,11 @@ void q_short(int low, int hight)
 	i = low + 1; //step 3
 	j = hight;  //step 4
 
+
+	while (i <= j) //step 10
+	{
+
+	}
 }
 
 int main()
