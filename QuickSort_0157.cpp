@@ -98,6 +98,11 @@ void display() {
 	cout << "Sorter Array" << endl;
 	cout << "-------------" << endl;
 
+	for (int i = 0; i < n; i++)
+	{
+		cout << arr[i] << " ";
+	}
+
 }
 
 
