@@ -106,8 +106,6 @@ void display() {
 	cout << "\n\nNumber of comparations: " << cmp_count << endl;
 	cout << "Number pf data movements: " << mov_count << endl;
 }
-
-
 int main()
 {
 	char ch;
@@ -125,4 +123,6 @@ int main()
 		system("cls");
 
 	} while (true);
+
+	return 0;
 }
